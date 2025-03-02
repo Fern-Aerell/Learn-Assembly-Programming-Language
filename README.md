@@ -1,3 +1,3 @@
 # Assembly
 
-Ini adalah repo untuk menyimpan hasil belajar bahasa pemrograman assembly.
+This is a repository for saving the results of learning assembly programming language.
